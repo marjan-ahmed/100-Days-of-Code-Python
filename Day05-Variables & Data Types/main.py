@@ -4,6 +4,7 @@ print("\n")
 name = "Marjan"
 print("The type of name is:",type(name))
 print("\n")
+
 # Numeric data: int, float, complex
 
 grade = 9
