@@ -17,4 +17,6 @@ print(timestamp)
 
 # https://docs.python.org/3/library/time.html#time.strftime
 ```
-## [Next Lesson>>]()
+![image](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/042ce734-cc2f-4fe2-853c-c4c1b1e3c7be) ![image](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/b1cac652-9783-407c-8f0f-5022d85a03d3)
+
+
