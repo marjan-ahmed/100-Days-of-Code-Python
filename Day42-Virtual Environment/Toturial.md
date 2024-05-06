@@ -8,7 +8,7 @@ To create a virtual environment using Python's built-in venv module, you typical
 # Why Use venv?
 "Virtual environments (venv) in Python offer isolation, keeping project dependencies separate to avoid conflicts with the system-wide Python installation. They streamline dependency management by specifying required packages and versions, ensuring consistent functionality. Additionally, venv enhances reproducibility by capturing precise dependency states, aiding in environment recreation for reliable results. These environments provide a safe sandbox for testing and package installation without system impact. Moreover, venv facilitates code sharing and deployment by encapsulating dependencies, simplifying cross-environment execution."
 
-# Creating a Virtual Environment with venv
+# Creation of Virtual Environment
 
 To create a virtual environment using venv in Python, follow these steps:
 
@@ -34,7 +34,10 @@ If you have multiple versions of Python installed, you might need to specify the
 5. **Install Packages**: Now that your virtual environment is active, you can use `pip` to install packages. For example:
 
 
-6. **Deactivate the Virtual Environment**: When you're done working in the virtual environment, you can deactivate it:
+6. **Deactivate the Virtual Environment**: When you're done working in the virtual environment, you can deactivate it by:
+ ```
+   deactivate
+   ```
 
 
 Following these steps, you'll have created and activated a virtual environment using venv in Python, ready for your project development.
