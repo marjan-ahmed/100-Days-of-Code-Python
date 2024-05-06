@@ -1,3 +1,7 @@
+![image](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/fa939065-b358-40c6-8b24-78234aea3089)
+![image](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/a3c87960-52ca-4790-9a3d-e0a3cfb6dd5a)
+
+
 # Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
 
 # Coding:
