@@ -1,3 +1,9 @@
+<div style="text-align:center">
+  
+![image](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/9239fce8-fe8b-4a4f-8563-013f111fdfa3)
+
+</div>
+
 # Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
 
 # Coding:
@@ -11,4 +17,7 @@ if the word contains less than 3 characters, reverse it
 else:
 remove 3 random characters from start and end. Now remove the last letter and append it to the beginning
 
-### Your program should ask whether you want to code or decode
+# Note:
+Your program should ask whether you want to code or decode
+
+![image](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/4e212f67-1231-4b09-9be9-f48762479b18)
