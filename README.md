@@ -24,3 +24,6 @@ It is used in AI and Machine Learning to simulate human behavior and to learn fr
 It is used to create web applications.
 It can be used to handle databases.
 It is used in business and accounting to perform complex mathematical operations along with quantitative and qualitative analysis.
+
+![image](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/b757a75a-966e-42c7-89df-d293abbeb129)
+
