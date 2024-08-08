@@ -1,29 +1,33 @@
-# Welcome To 100 days Of Python
+ # 💯 **100 Days of Code in Python**
 
 ![Aspiring_tech (1)](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/a4a50762-e1a4-42e5-889a-ddd334fb7a26)
 
-# What is Programming
-Programming is a way for us to tell computers what to do. Computer is a very dumb machine and it only does what we tell it to do. Hence we learn programming and tell computers to do what we are very slow at - computation. If I ask you to calculate 5+6, you will immediately say 11. How about 23453453 X 56456?
+Welcome to my **100 Days of Code** challenge! This repository documents my journey as I complete daily coding tasks in Python, following tutorials and exercises provided by [Code with Harry](https://github.com/CodeWithHarry).
 
-You will start searching for a calculator or jump to a new tab to calculate the same. This 100 days of code series will help you learn python from starting to the end. We will start from 0 and by the time we end this course, I promise you will be a Job ready Python developer!
+## 📅 Overview
 
-# What is Python?
-Python is a dynamically typed, general purpose programming language that supports an object-oriented programming approach as well as a functional programming approach.
-Python is an interpreted and a high-level programming language.
-It was created by Guido Van Rossum in 1989.
-# Features of Python
-Python is simple and easy to understand.
-It is Interpreted and platform-independent which makes debugging very easy.
-Python is an open-source programming language.
-Python provides very big library support. Some of the popular libraries include NumPy, Tensorflow, Selenium, OpenCV, etc.
-It is possible to integrate other programming languages within python.
-# What is Python used for
-Python is used in Data Visualization to create plots and graphical representations.
-Python helps in Data Analytics to analyze and understand raw data for insights and trends.
-It is used in AI and Machine Learning to simulate human behavior and to learn from past data without hard coding.
-It is used to create web applications.
-It can be used to handle databases.
-It is used in business and accounting to perform complex mathematical operations along with quantitative and qualitative analysis.
+The **100 Days of Code** challenge is a commitment to code for at least an hour every day for 100 consecutive days. This repository contains my daily progress, code snippets, and projects.
 
-![image](https://github.com/marjan-ahmed/100-Days-Of-Python/assets/159646510/b757a75a-966e-42c7-89df-d293abbeb129)
+...
 
+## 📚 Resources
+
+- [Code with Harry YouTube Channel](https://www.youtube.com/c/CodeWithHarry)
+- [Python Official Documentation](https://docs.python.org/3/)
+- [100 Days of Code Official Website](https://www.codewithharry.com/videos/python-100-days-of-code-1/)
+
+## 🙌 Acknowledgments
+
+A big thank you to **Code with Harry** for providing the tasks and tutorials that made this challenge possible.
+
+## 📧 Contact
+
+Feel free to reach out to me:
+
+- **Email:** marjanahmed.dev@gmail.com
+- **GitHub:** [Marjan Ahmed](https://github.com/marjan-ahmed)
+- **Twitter:** [@M_MarjanAhmed](https://twitter.com/@m_marjanahmed)
+
+---
+
+**Happy Coding!** 🚀
